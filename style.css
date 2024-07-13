@@ -13,7 +13,7 @@
     /* Colors */
     --primary-color: linear-gradient(to right, rgb(56, 21, 51), rgb(51, 18, 41), purple);
     --secondary-color: #f3961c;
-    --dark-color: #252525;
+    --dark-color:linear-gradient(to left, rgb(56, 21, 51), rgb(51, 18, 41), purple);
     --white-color: #fff;
     --light-gray-color: #f2f2f2;
 
